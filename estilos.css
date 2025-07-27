@@ -277,8 +277,7 @@ a:hover {
     }
     nav { 
         gap: 30px;
-        justify-content: center;
-        margin-right: 30px;
+        margin-right: 10px;
     }
     #figura-inicio img {
         max-width: 100%;
