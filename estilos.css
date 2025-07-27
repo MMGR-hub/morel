@@ -34,7 +34,8 @@ header {
 .logo {
     align-items: center;
     height: auto; 
-    margin-left: 20px; 
+    /*margin-left: 20px;*/
+    margin-left: 15px; 
 }
 
 nav { 
@@ -270,9 +271,6 @@ a:hover {
 }
 
 @media (max-width: 360px) {
-    nav {   
-        margin-right: 1px;
-    }
     #figura-inicio img {
         max-width: 100%;
     }
