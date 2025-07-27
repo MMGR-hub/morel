@@ -276,10 +276,10 @@ a:hover {
     flex-wrap: wrap;
     gap: 80px;
     justify-content: center;*/
-        margin-right: 30px;
+        margin-right: 10px;
     }
     nav a {
-        font-size: 14px;
+        font-size: 12px;
     }
     #figura-inicio img {
         max-width: 100%;
