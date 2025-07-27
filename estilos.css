@@ -273,13 +273,14 @@ a:hover {
 @media (max-width: 360px) {
     nav { 
     /*display: flex;
-    flex-wrap: wrap;
-    gap: 80px;
-    justify-content: center;*/
+    flex-wrap: wrap;*/
+        gap: 50px;
+        justify-content: center;
         margin-right: 10px;
     }
     nav a {
         font-size: 12px;
+        color: pink;
     }
     #figura-inicio img {
         max-width: 100%;
