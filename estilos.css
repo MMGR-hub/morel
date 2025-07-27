@@ -274,6 +274,8 @@ a:hover {
 @media (max-width: 460px) {
     header {
         background-color: pink;
+        justify-content: space-around;
+        padding: 2px;
     }
     nav { 
         gap: 30px;
