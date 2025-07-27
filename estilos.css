@@ -229,6 +229,7 @@ a:hover {
         flex-direction: column;
     }
 }
+
 @media (max-width: 768px) {
     header {
         flex-direction: column;
@@ -250,37 +251,12 @@ a:hover {
         padding: 10px;
     }
 }
-@media (max-width: 480px) {
-    #figura-inicio img {
-        max-width: 100%;
-    }
-    .main {
-        padding: 10px;
-    }
-    .main img {    
-        height: 314px;
-        width: 346px;
-    }
-    .aside {
-        padding: 10px;
-    }
-    .carta {
-        padding: 10px;
-    }
-}
 
-/*@media (max-width: 320px) {*/
-@media only screen and (min-width: 320px) and (max-width: 576px) {
-    /*nav { 
-    /*display: flex;
-    flex-wrap: wrap;
-        gap: 20px;
-        justify-content: center;
-        margin-right: 10px;
-    }*/
-    nav a {
-        font-size: 5px;
-        background-color: pink;
+@media (max-width: 480px) {
+    nav { 
+        /*gap: 80px;
+        justify-content: center;*/
+        margin-right: 30px;
     }
     #figura-inicio img {
         max-width: 100%;
