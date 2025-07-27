@@ -278,7 +278,7 @@ a:hover {
         padding: 0px;
     }
     nav { 
-        gap: 30px;
+        /*gap: 30px;*/
         margin-right: 10px;
     }
     nav a {
