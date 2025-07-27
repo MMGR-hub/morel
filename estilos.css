@@ -253,6 +253,15 @@ a:hover {
 }
 
 @media (max-width: 480px) {
+    header {
+    background-color: pink;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    padding: 10px;
+    text-transform: uppercase;
+    align-items: center;
+    }
     nav { 
         gap: 30px;
         /*justify-content: center;*/
