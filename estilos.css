@@ -271,6 +271,16 @@ a:hover {
 }
 
 @media (max-width: 360px) {
+    nav { 
+    /*display: flex;
+    flex-wrap: wrap;
+    gap: 80px;
+    justify-content: center;*/
+        margin-right: 30px;
+    }
+    nav a {
+        font-size: 14px;
+    }
     #figura-inicio img {
         max-width: 100%;
     }
