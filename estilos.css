@@ -257,16 +257,14 @@ a:hover {
     background-color: pink;
     display: flex;
     flex-wrap: nowrap;
-    justify-content: space-between;
-    padding: 10px;
-    text-transform: uppercase;
-    align-items: center;
+    justify-content: center;
+    padding: 5px;
     }
-    nav { 
+    /*nav { 
         gap: 30px;
-        /*justify-content: center;*/
-        margin-right: 30px;*/
-    }
+        justify-content: center;
+        margin-right: 30px;
+    }*/
     #figura-inicio img {
         max-width: 100%;
     }
