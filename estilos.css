@@ -271,7 +271,7 @@ a:hover {
 
 @media (max-width: 360px) {
     nav {   
-        margin-right: 10px;
+        margin-right: 1px;
     }
     #figura-inicio img {
         max-width: 100%;
