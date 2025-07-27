@@ -273,17 +273,13 @@ a:hover {
 
 @media (max-width: 460px) {
     header {
-    background-color: pink;
-    display: flex;
-    flex-wrap: nowrap;
-    justify-content: center;
-    padding: 5px;
+        background-color: pink;
     }
-    /*nav { 
+    nav { 
         gap: 30px;
         justify-content: center;
         margin-right: 30px;
-    }*/
+    }
     #figura-inicio img {
         max-width: 100%;
     }
